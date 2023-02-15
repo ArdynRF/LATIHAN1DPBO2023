@@ -7,6 +7,7 @@ using namespace std;
 
 class mahasiswa
 {
+// atribut untuk class mahasiswa
 private:
     string Nama;
     int Nim;
@@ -14,6 +15,7 @@ private:
     string Fakultas;
 
 public:
+    // constructors untuk class mahasiswa
     mahasiswa()
     {
         this->Nama = "";
@@ -29,7 +31,8 @@ public:
         this->Prodi = Prodi;
         this->Fakultas = Fakultas;
     }
-
+    
+    // fungsi setter dan getter dari setiap atribut
     string get_Nama()
     {
         return this->Nama;
@@ -70,11 +73,13 @@ public:
         this->Fakultas = Fakultas;
     }
 
+    // method untuk menambah isi list
     void tambah(list<mahasiswa> &n, mahasiswa temp)
     {
         n.push_back(temp);
     }
-
+    
+    //method untuk mengurangi isi list
     void kurang(list<mahasiswa> &n, mahasiswa temp)
     {
         list<mahasiswa>::iterator tmp;
@@ -106,6 +111,7 @@ public:
         }
     }
 
+    // method untuk mengubah isi list
     void ubah(list<mahasiswa> &n, mahasiswa temp)
     {
         int flag = 0;
