@@ -41,9 +41,9 @@ Jika user menjalankan perintah ini maka program akan meminta user untuk menginpu
 ## Dokumentasi
 Pada program C++
 
+![Screenshot - ](https://github.com/ArdynRF/LATIHAN1DPBO2023/blob/main/laprak1/screenshot/ss_CPP.png)
 ![Screenshot - ](https://github.com/ArdynRF/LATIHAN1DPBO2023/blob/main/laprak1/screenshot/SS_CPP2.png)
 
 Pada program PHP
 
 ![Screenshot - PHP](https://github.com/ArdynRF/LATIHAN1DPBO2023/blob/main/laprak1/screenshot/SS_CPP2.png)
-![Screenshot (252)](https://user-images.githubusercontent.com/100757455/218745954-b53de77c-c702-4d54-9353-2c0939ca024c.png)
