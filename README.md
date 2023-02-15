@@ -46,4 +46,4 @@ Pada program C++
 
 Pada program PHP
 
-![Screenshot - PHP](https://github.com/ArdynRF/LATIHAN1DPBO2023/blob/main/laprak1/screenshot/SS_CPP2.png)
+![Screenshot - PHP](https://github.com/ArdynRF/LATIHAN1DPBO2023/blob/main/laprak1/screenshot/SS_PHP.png)
